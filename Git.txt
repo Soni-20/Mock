@@ -7,3 +7,4 @@ Inheritance,Abstraction,Polymorphism,Encapsulation.
 Java is independent language.
 Java is secure.
 Amal Binesh 
+java is object oriented.
